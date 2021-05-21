@@ -1,14 +1,13 @@
-sherlock.database (*class*)
+﻿database *(class)*
 ===========================
 
 .. currentmodule:: sherlock
 
 .. autoclass:: database
    :members:
-   :private-members:
    :show-inheritance:
    :inherited-members:
-   :member-order: bysource
+   :member-order: groupwise
 
     
 
@@ -23,23 +22,69 @@ sherlock.database (*class*)
             ~database.connect
        
    
-   
-       
-   
-       
-   
-       
-   
-       
-            ~database._checkServer
-        
-   
-       
-            ~database._setup_tunnel
-        
-   
-       
-   
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   ..          ~database._checkServer
+   ..      
+   .. 
+   ..     
+   ..          ~database._setup_tunnel
+   ..      
+   .. 
+   ..     
+   .. 
    
    
 

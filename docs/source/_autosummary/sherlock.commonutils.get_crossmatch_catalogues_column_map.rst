@@ -1,4 +1,4 @@
-sherlock.commonutils.get_crossmatch_catalogues_column_map (*function*)
+﻿get_crossmatch_catalogues_column_map (*function*)
 ======================================================================
 
 .. currentmodule:: sherlock.commonutils

@@ -1,53 +1,74 @@
-sherlock.commonutils (*subpackage*)
-===================================
+﻿commonutils *(module)*
+===============================
+
+
 
 .. automodule:: sherlock.commonutils
     :members:
-    :private-members:
+    :undoc-members:
     :show-inheritance:
     :inherited-members:
-    :member-order: bysource
-
+    :member-order: groupwise
     
     
-    .. rubric:: Subpackage Members
+    
+    .. rubric:: Classes
 
     .. autosummary::
     
-        
-        
-        
-        
-        
-        
-        
-            
-                ~get_crossmatch_catalogues_column_map
-           
-        
-        
-            
-                ~getpackagepath
-           
-        
-        
-            
-        
-        
-            
-                ~update_wiki_pages
-           
-        
+      ~update_wiki_pages
+    
+    
+
+    
+    
+    .. rubric:: Functions
+
+    .. autosummary::
+    
+      ~get_crossmatch_catalogues_column_map
+      ~getpackagepath
+    
+    
+
+    
+    
+    
+
+    
+    
+    .. rubric:: Sub-modules
+
+    .. autosummary::
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
         
+            ~get_crossmatch_catalogues_column_map (nice)
+       
+    
+    
         
+            ~getpackagepath (nice)
+       
+    
+    
         
+    
+    
         
-        
-        
-        
-        
-        
-        
+            ~update_wiki_pages (nice)
+       
+    
+    
     
     

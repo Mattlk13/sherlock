@@ -1,71 +1,76 @@
-sherlock.imports (*subpackage*)
-===============================
+﻿imports *(module)*
+===========================
+
+
 
 .. automodule:: sherlock.imports
     :members:
-    :private-members:
+    :undoc-members:
     :show-inheritance:
     :inherited-members:
-    :member-order: bysource
-
+    :member-order: groupwise
     
     
-    .. rubric:: Subpackage Members
+    
+    .. rubric:: Classes
 
     .. autosummary::
     
-        
-        
-        
-        
-        
-        
-        
-        
-            
-                ~ifs
-           
-        
-        
-            
-                ~marshall
-           
-        
-        
-            
-                ~ned
-           
-        
-        
-            
-                ~ned_d
-           
-        
-        
-            
-        
-        
-            
-                ~veron
-           
-        
+      ~ifs
+      ~ned
+      ~ned_d
+      ~veron
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    .. rubric:: Sub-modules
+
+    .. autosummary::
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
         
+            ~ifs (nice)
+       
+    
+    
         
+            ~ned (nice)
+       
+    
+    
         
+            ~ned_d (nice)
+       
+    
+    
         
+    
+    
         
-        
-        
-            
-                ~_base_importer
-           
-        
-        
-        
-        
-        
-        
-        
+            ~veron (nice)
+       
+    
+    
     
     

@@ -1,14 +1,13 @@
-sherlock.imports.veron (*class*)
+﻿veron *(class)*
 ================================
 
 .. currentmodule:: sherlock.imports
 
 .. autoclass:: veron
    :members:
-   :private-members:
    :show-inheritance:
    :inherited-members:
-   :member-order: bysource
+   :member-order: groupwise
 
     
 
@@ -27,29 +26,75 @@ sherlock.imports.veron (*class*)
             ~veron.ingest
        
    
-   
-       
-   
-       
-   
-       
-   
-       
-            ~veron._add_htmids_to_database_table
-        
-   
-       
-            ~veron._create_dictionary_of_veron
-        
-   
-       
-            ~veron._update_database_helper_table
-        
-   
-       
-   
-       
-   
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
+   ..     
+   ..          ~veron._add_htmids_to_database_table
+   ..      
+   .. 
+   ..     
+   ..          ~veron._create_dictionary_of_veron
+   ..      
+   .. 
+   ..     
+   ..          ~veron._update_database_helper_table
+   ..      
+   .. 
+   ..     
+   .. 
+   ..     
+   .. 
    
    
 

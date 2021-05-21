@@ -1,10 +1,10 @@
-sherlock\.commonutils\.update\_wiki\_pages module
-=================================================
+sherlock.commonutils.update\_wiki\_pages module
+===============================================
 
 .. automodule:: sherlock.commonutils.update_wiki_pages
-    :members:
-    :private-members:
-    :undoc-members:
-    :show-inheritance:
-    :inherited-members:
-    :member-order=bysource:
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+   :member-order:
+   :private-members:

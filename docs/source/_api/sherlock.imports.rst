@@ -1,23 +1,22 @@
-sherlock\.imports package
-=========================
+sherlock.imports package
+========================
 
 .. automodule:: sherlock.imports
-    :members:
-    :private-members:
-    :undoc-members:
-    :show-inheritance:
-    :inherited-members:
-    :member-order=bysource:
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :inherited-members:
+   :member-order:
+   :private-members:
 
 Submodules
 ----------
 
 .. toctree::
+   :maxdepth: 4
 
    sherlock.imports._base_importer
    sherlock.imports.ifs
-   sherlock.imports.marshall
    sherlock.imports.ned
    sherlock.imports.ned_d
    sherlock.imports.veron
-
